@@ -1,3 +1,4 @@
+import React from "react";
 const ServiceCard = ({ title, description, price }) => {
   return (
     <article className="card service-card">

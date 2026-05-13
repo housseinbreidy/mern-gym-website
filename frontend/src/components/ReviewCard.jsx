@@ -1,3 +1,4 @@
+import React from "react";
 const ReviewCard = ({ review }) => {
   return (
     <article className="card review-card">
